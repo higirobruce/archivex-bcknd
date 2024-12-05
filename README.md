@@ -1,5 +1,5 @@
 
-# Project Title
+# Welcome to ARKIVEX
 
 Arkivex is a cutting-edge E-Archive system designed to manage and streamline document storage, retrieval, and workflows digitally. It incorporates advanced AI functionalities to enhance document categorization, tagging, and predictive search, ensuring efficient access to stored information. With built-in OCR (Optical Character Recognition) capabilities, Arkivex enables the digitization of physical documents, allowing for seamless text extraction and metadata generation from scanned images or PDFs.
 
