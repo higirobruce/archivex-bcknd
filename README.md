@@ -14,7 +14,7 @@ Arkivex supports organizations aiming to achieve a fully digital, intelligent do
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@higirobruce](https://github.com/higirobruce)
 
 
 ## Deployment
